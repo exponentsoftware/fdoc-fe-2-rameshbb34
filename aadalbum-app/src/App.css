@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.card{
+  align-items: center;
+  margin: 10px 50px;
+}
+.three-cards{
+  display: flex;
+  padding-top: 50px;
+  padding-left: 200px;
+}
+
+.title{
+  justify-content: center;
+}
